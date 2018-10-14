@@ -1,0 +1,12 @@
+{
+	"name": "RandomUser",
+	"description": "Create an API in Node.js/Express exposing 3 endpoints to GET and POST random user data!",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/namiyt/RandomUser.git"
+	},
+	"dependencies": {
+		"express": "^4.16.4",
+		"request": "^2.88.0"
+	}
+}
